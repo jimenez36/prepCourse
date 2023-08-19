@@ -1,2 +1,1 @@
-# prepCourse
-este es un nuevo repositorio de prueba de henry
+prueba de como clonar un repositorio de github a mi computadora
